@@ -36,4 +36,5 @@ https://www.youtube.com/watch?v=4OimNJw7kFo&t=4720s
 <img width="1339" height="787" alt="image" src="https://github.com/user-attachments/assets/a0655215-b1b8-459b-a20e-36c3f7edda0c" /> 
 # เงาเพลงดัง – NAKA SIAM (Full Album)
 ### คลิกลิ้งค์ฟังเพลง
+https://www.youtube.com/watch?v=6SlFRn6e2Hs&t=970s
 <img width="1342" height="805" alt="image" src="https://github.com/user-attachments/assets/7e473ad4-1e13-47fe-83b3-4c82b94faab7" />
