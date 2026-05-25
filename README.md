@@ -38,3 +38,11 @@ https://www.youtube.com/watch?v=4OimNJw7kFo&t=4720s
 ### คลิกลิ้งค์ฟังเพลง
 https://www.youtube.com/watch?v=6SlFRn6e2Hs&t=970s
 <img width="1342" height="805" alt="image" src="https://github.com/user-attachments/assets/7e473ad4-1e13-47fe-83b3-4c82b94faab7" />
+# สุขไม่เล่า เศร้าไม่พูด NAKA SIAM Unplugged Album Official Visualizer 16 Tracks 1 ชั่วโมง ฟังชิลๆ
+### คลิกลิ้งค์ฟังเพลง
+https://www.youtube.com/watch?v=RDWEY4kNfo4&t=613s
+<img width="1079" height="763" alt="image" src="https://github.com/user-attachments/assets/566f50b2-8507-4a57-af69-8476b8749952" />
+
+
+
+
