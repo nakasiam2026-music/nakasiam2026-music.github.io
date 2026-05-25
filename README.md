@@ -22,5 +22,10 @@ https://youtu.be/Ck8rb2-wHis
 ### คลิกลิ้งค์ฟังเพลง
 https://youtu.be/pZ6WrJvya0o
 <img width="1376" height="768" alt="Gemini_Generated_Image_91nq9u91nq9u91nq" src="https://github.com/user-attachments/assets/404b1e14-7318-441f-b5cc-dba77d265295" />
+# คืนนี้…ยังไม่อยากให้จบ (Live In Concert)
+### คลิกลิ้งค์ฟังเพลง
+https://www.youtube.com/watch?v=dehSk8w9I9k
+<img width="1280" height="734" alt="b884934b-0ef4-4492-84f3-fb3df5583abe" src="https://github.com/user-attachments/assets/c26e1e75-d20f-4c89-9b1b-8ef9e82b5345" />
+
 
 
