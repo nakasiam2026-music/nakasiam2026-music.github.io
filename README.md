@@ -30,5 +30,9 @@ https://www.youtube.com/watch?v=dehSk8w9I9k
 ### คลิกลิ้งค์ฟังเพลง
 https://www.youtube.com/watch?v=H07I2e20Pwk&t=3929s
 <img width="1311" height="795" alt="image" src="https://github.com/user-attachments/assets/d71b4ea0-c355-45d9-84b6-42ffdc985824" />
+# 🎉 พลังชีวิต : ไม่มีเงาใคร (Full Album)🔥 20 เพลง Rock Fusion | 1:22:57 ชั่วโมง | My Models:
+### คลิกลิ้งค์ฟังเพลง
+https://www.youtube.com/watch?v=4OimNJw7kFo&t=4720s
+<img width="1339" height="787" alt="image" src="https://github.com/user-attachments/assets/a0655215-b1b8-459b-a20e-36c3f7edda0c" />
 
 
