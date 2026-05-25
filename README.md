@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=H07I2e20Pwk&t=3929s
 # 🎉 พลังชีวิต : ไม่มีเงาใคร (Full Album)🔥 20 เพลง Rock Fusion | 1:22:57 ชั่วโมง | My Models:
 ### คลิกลิ้งค์ฟังเพลง
 https://www.youtube.com/watch?v=4OimNJw7kFo&t=4720s
-<img width="1339" height="787" alt="image" src="https://github.com/user-attachments/assets/a0655215-b1b8-459b-a20e-36c3f7edda0c" />
-
-
+<img width="1339" height="787" alt="image" src="https://github.com/user-attachments/assets/a0655215-b1b8-459b-a20e-36c3f7edda0c" /> 
+# เงาเพลงดัง – NAKA SIAM (Full Album)
+### คลิกลิ้งค์ฟังเพลง
+<img width="1342" height="805" alt="image" src="https://github.com/user-attachments/assets/7e473ad4-1e13-47fe-83b3-4c82b94faab7" />
