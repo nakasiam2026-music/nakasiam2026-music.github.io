@@ -12,5 +12,11 @@ https://www.youtube.com/watch?v=YUVLzlNo4wM&t=1214s
 ### คลิกลิ้งค์ฟังเพลง
 https://www.youtube.com/watch?v=oXSfXhhvAeg
 <img width="752" height="568" alt="image" src="https://github.com/user-attachments/assets/af7ae912-f8b3-4d40-b0bc-2f8159a370c1" />
+# NAKA SIAM LIVE CONCERT 2026 (Full Album)
+"บทเพลงแห่งใจ... มอบพลังให้พี่น้อง ก้าวข้ามทุกอุปสรรค"
+สถานที่: พิษณุโลก, ประเทศไทย | เทศกาลมหาสงกรานต์ 2026
+### คลิกลิ้งค์ฟังเพลง
+https://youtu.be/Ck8rb2-wHis
+<img width="1280" height="720" alt="000000 -  พิธีกร เปิดคอนเสิร์ต  000046 - 01 จำไม่ได้ แต่ยังรู้สึก 000444 - 02 พลังของคนคิดบวก 000826 - 03 ทางนี้ ที่หัวใจจำได้ 001213 - 04 สองทาง ทางเดียวกัน 001659 - 05 เพื่อนกันตลอดไป 00" src="https://github.com/user-attachments/assets/69b72e0d-b96a-480b-90d9-32299fe17142" />
 
 
