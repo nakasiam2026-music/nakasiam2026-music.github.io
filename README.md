@@ -42,6 +42,10 @@ https://www.youtube.com/watch?v=6SlFRn6e2Hs&t=970s
 ### คลิกลิ้งค์ฟังเพลง
 https://www.youtube.com/watch?v=RDWEY4kNfo4&t=613s
 <img width="1079" height="763" alt="image" src="https://github.com/user-attachments/assets/566f50b2-8507-4a57-af69-8476b8749952" />
+# 🎸 ปีศาจดนตรี (Music Demon) – NAKA SIAM🔥 แนว: Heavy Metal / Power Metal / Hard Rock
+### คลิกลิ้งค์ฟังเพลง
+https://www.youtube.com/watch?v=pY-IiMMj6o4
+<img width="1320" height="789" alt="image" src="https://github.com/user-attachments/assets/d806d7da-7266-4501-8b16-0b935337ab4d" />
 
 
 
