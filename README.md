@@ -6,5 +6,7 @@ https://youtu.be/Xoygs-BpmFg
 # ดีเจ.ไข่หวานเจี๊ยบ จัดหนัก! แดนซ์ภาษาเทพ 2026 (VOL.2) - ยุค90
 https://www.youtube.com/watch?v=YUVLzlNo4wM&t=1214s
 <img width="1280" height="720" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (22)" src="https://github.com/user-attachments/assets/76c0d4e8-a3bb-4b26-9520-28854e9dbffc" />
-
+# พญานาค ลำน้ำเข็กน้อย
+https://www.youtube.com/watch?v=oXSfXhhvAeg
+<img width="974" height="721" alt="image" src="https://github.com/user-attachments/assets/1189f75b-cd5c-47e6-a158-f2025990b9ca" />
 
