@@ -46,7 +46,10 @@ https://www.youtube.com/watch?v=RDWEY4kNfo4&t=613s
 ### คลิกลิ้งค์ฟังเพลง
 https://www.youtube.com/watch?v=pY-IiMMj6o4
 <img width="1320" height="789" alt="image" src="https://github.com/user-attachments/assets/d806d7da-7266-4501-8b16-0b935337ab4d" />
-
+## น้ำเก๊กฮวยมีฟอง เร็กเก้ ชิลๆ
+### คลิกลิ้งค์ฟังเพลง
+https://www.youtube.com/watch?v=VYp9Xaue7T0&list=PLZjIKZ1S24NT5TnxDC2hhu0SHnlVa-0T5
+<img width="1299" height="783" alt="image" src="https://github.com/user-attachments/assets/4643ec5e-065d-4991-a63c-ba903b29524f" />
 
 
 
