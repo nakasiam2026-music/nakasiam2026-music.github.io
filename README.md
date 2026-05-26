@@ -52,19 +52,7 @@ https://www.youtube.com/watch?v=pY-IiMMj6o4
 https://www.youtube.com/watch?v=VYp9Xaue7T0&list=PLZjIKZ1S24NT5TnxDC2hhu0SHnlVa-0T5
 <img width="1299" height="783" alt="image" src="https://github.com/user-attachments/assets/4643ec5e-065d-4991-a63c-ba903b29524f" />
 
-<details style="background: #111; color: #fff; padding: 15px; border-radius: 8px; margin: 20px;">
-<summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer; color: #d4af37;">🎬 คลิกเพื่อดูคลิปชอร์ตทั้งหมด [นาคาสยาม]</summary>
-<p style="color: #bbb; font-size: 0.9rem; margin-top: 10px;">รวมคลิปสั้นเด็ด ๆ ยิงตรงจากช่อง YouTube Shorts</p>
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 15px;">
-<div style="border: 2px solid #333; border-radius: 8px; overflow: hidden; width: 315px; height: 560px;">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/L1Y19PeOpv4" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<div style="border: 2px solid #333; border-radius: 8px; overflow: hidden; width: 315px; height: 560px;">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/pY-IiMMj6o4" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-</details>
-
+<details style="background: #111; color: #fff; padding: 15px; border-radius: 8px; margin: 20px;"><summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer; color: #d4af37;">🎬 คลิกเพื่อดูคลิปชอร์ตทั้งหมด [นาคาสยาม]</summary><p style="color: #bbb; font-size: 0.9rem; margin-top: 10px;">รวมคลิปสั้นเด็ด ๆ ยิงตรงจากช่อง YouTube Shorts</p><div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 15px;"><div style="border: 2px solid #333; border-radius: 8px; overflow: hidden; width: 315px; height: 560px;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/L1Y19PeOpv4" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div style="border: 2px solid #333; border-radius: 8px; overflow: hidden; width: 315px; height: 560px;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/pY-IiMMj6o4" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></details>
 
 
 
