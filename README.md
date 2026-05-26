@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=VYp9Xaue7T0&list=PLZjIKZ1S24NT5TnxDC2hhu0SHnlVa-
 _รวมคลิปสั้นเด็ด ๆ ยิงตรงจากช่อง YouTube Shorts (คลิกที่รูปเพื่อรับชม)_
 
 [![Short 1](https://img.youtube.com/vi/L1Y19PeOpv4/0.jpg)](https://www.youtube.com/shorts/L1Y19PeOpv4) [![Short 2](https://img.youtube.com/vi/pY-IiMMj6o4/0.jpg)](https://www.youtube.com/shorts/pY-IiMMj6o4)
-
+[![Short 1](https://img.youtube.com/vi/L1Y19PeOpv4/0.jpg)](https://www.youtube.com/shorts/L1Y19PeOpv4) [![Short 2](https://img.youtube.com/vi/pY-IiMMj6o4/0.jpg)](https://www.youtube.com/shorts/pY-IiMMj6o4)
 
 
 
