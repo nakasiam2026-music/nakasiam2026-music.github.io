@@ -51,7 +51,6 @@ https://www.youtube.com/watch?v=pY-IiMMj6o4
 ### คลิกลิ้งค์ฟังเพลง
 https://www.youtube.com/watch?v=VYp9Xaue7T0&list=PLZjIKZ1S24NT5TnxDC2hhu0SHnlVa-0T5
 <img width="1299" height="783" alt="image" src="https://github.com/user-attachments/assets/4643ec5e-065d-4991-a63c-ba903b29524f" />
-<details style="background: #111; color: #fff; padding: 15px; border-radius: 8px; margin: 20px 0; border: 1px solid #d4af37;">
 
 <details style="background: #111; color: #fff; padding: 15px; border-radius: 8px; margin: 20px;">
 <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer; color: #d4af37;">🎬 คลิกเพื่อดูคลิปชอร์ตทั้งหมด [นาคาสยาม]</summary>
